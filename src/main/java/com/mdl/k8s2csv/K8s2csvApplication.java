@@ -17,21 +17,21 @@ public class K8s2csvApplication {
 
 	public static void main(String[] args) throws IOException, ApiException {
 		SpringApplication.run(K8s2csvApplication.class, args);
-System.out.println("");
+		System.out.println("");
 		System.out.println("# K8s diagram");
-				System.out.println("# label: %label%");
-						System.out.println("# style: html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=%prIcon%");
-								System.out.println("# connect: {\"from\":\"refs\", \"to\":\"id\", \"invert\":true, \"style\":\"curved=0;endArrow=blockThin;endFill=1;sketch=\"}");
+		System.out.println("# label: %label%");
+		System.out.println("# style: html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=%prIcon%");
+		System.out.println("# connect: {\"from\":\"refs\", \"to\":\"id\", \"invert\":true, \"style\":\"curved=0;endArrow=blockThin;endFill=1;sketch=\"}");
 		System.out.println("# connect: {\"from\":\"ns\", \"to\":\"id\", \"invert\":true, \"style\":\"curved=0;endArrow=blockThin;endFill=1;sketch=1\"}");
 		System.out.println("# width: 80");
-				System.out.println("# width: 80");
-						System.out.println("# height: 80");
-								System.out.println("# nodespacing: 40");
-										System.out.println("# levelspacing: 40");
-												System.out.println("# edgespacing: 40");
-														System.out.println("# layout: verticalflow");
-																System.out.println("## CSV data starts below this line");
-																		System.out.println("id,refs,label,prIcon,ns");
+		System.out.println("# width: 80");
+		System.out.println("# height: 80");
+		System.out.println("# nodespacing: 40");
+		System.out.println("# levelspacing: 40");
+		System.out.println("# edgespacing: 40");
+		System.out.println("# layout: verticalflow");
+		System.out.println("## CSV data starts below this line");
+		System.out.println("id,refs,label,prIcon,ns");
 
 
 
