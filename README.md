@@ -112,5 +112,5 @@ smtp4dev-5ff5d9895d-n7bll,smtp4dev-5ff5d9895d,smtp4dev-5ff5d9895d-n7bll,pod,
 ```
 
 ## Example screenshot:
-
+<img alt="ScreenshotDraw.io" title="ScreenshotDraw.io" src="DEVClusterK8sResources.png">
 
