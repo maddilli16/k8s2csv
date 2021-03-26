@@ -112,7 +112,7 @@ smtp4dev-5ff5d9895d-n7bll,smtp4dev-5ff5d9895d,smtp4dev-5ff5d9895d-n7bll,pod,
 ```
 
 ## Example screenshots Draw.io:
-<img alt="ScreenshotDraw.io" title="ScreenshotDraw.io" src="Drawio.png">
+<img alt="ScreenshotDraw.io" title="ScreenshotDraw.io" src="DrawIo.png">
 <img alt="ScreenshotDraw.io" title="ScreenshotDraw.io" src="DEVClusterK8sResources.png">
 
 ## Current supported resources:
